@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Crypto Timeline
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Crypto. Clarified.
     actions:
       - label: Try for free
         url: /pricing
