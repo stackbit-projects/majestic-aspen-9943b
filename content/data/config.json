@@ -41,7 +41,7 @@
             },
             {
                 "label": "Log in",
-                "url": "/thank-you",
+                "url": "/charts",
                 "style": "secondary"
             },
             {
