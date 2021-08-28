@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Crypto Timeline - Homepage
 sections:
   - type: hero_section
     title: Crypto Timeline
